@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <color b="255" g="255" id="0" r="255"/>
+  <tol a="10" b="60" id="1"/>
+  <firstimage contrast="1" cutb="0.18888889" cutl="0.0" cutr="0.0" cutt="0.0" id="2" luminosity="1" offx="0" offy="0" saturation="1" scale="1" sizex="1280" sizey="720" tint="0"/>
+  <secondimage contrast="1" cutb="0.0" cutl="0.2015625" cutr="0.0" cutt="0.0" id="3" luminosity="1" offx="0" offy="0" saturation="1" scale="1" sizex="864" sizey="486" tint="0"/>
+  <imagepath>/Users/thoth/Documents/Chroma/Imagens/</imagepath>
+  <thumbpath>/Users/thoth/Documents/Chroma/Thumbs/</thumbpath>
+  <mask x1="-0.415625" x2="-0.4734375" x3="0.47265625" x4="0.46953124" y1="-0.34861112" y2="0.4125" y3="0.45" y4="-0.47083333"/>
+</settings>
